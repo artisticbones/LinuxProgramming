@@ -1,0 +1,1 @@
+cmd_/home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.ko /home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.o /home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.mod.o ;  true
