@@ -1,3 +1,2 @@
-/home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.ko
-/home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.o
-
+/home/network/LinuxProgramming/eth/fake-eth.ko
+/home/network/LinuxProgramming/eth/fake-eth.o

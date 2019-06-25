@@ -1,2 +1,2 @@
-kernel//home/artisticbones/Desktop/study/LinuxProgramming/eth/fake-eth.ko
-kernel//home/artisticbones/Desktop/study/LinuxProgramming/eth/eth-ins.ko
+kernel//home/network/LinuxProgramming/eth/fake-eth.ko
+kernel//home/network/LinuxProgramming/eth/eth-ins.ko
